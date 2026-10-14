@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.header {
+
+
+    .bvbv {
+        display: flex;
+         justify-content: flex-end;
+        gap: 40px;
+
+    }
+}
+.section { 
+    display: flex;
+    gap: 400px;
+    margin-top: 170px;
+    h1{
+font-weight: 700px;
+font-size: 44px;
+line-height: 60px;
+margin-top: 15px;
+
+    }
+    p {
+        font-family: Heebo;
+font-weight: 400px;
+font-size: 16px;
+line-height: 100%;
+margin-top: 20px;
+
+    }
+
+    .ll {
+font-weight: 500;
+font-size: 20px;
+line-height: 100%;
+background: #FF6464;
+color: aliceblue;
+border: none;
+border-radius: 5px;
+padding: 10px 15px ;
+margin-top: 27px;
+    }
+   
+} 
+
+
+
+.dor{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    background: #EDF7FA;
+    border-radius: 10px;
+
+
+    .mm{
+        display: flex;
+        justify-content: space-between;
+        gap: 1000px;
+        margin-top: 40px;
+        border-radius: 10px;
+        margin: 30px 30px;
+
+        h1 {
+font-weight: 700px;
+font-size: 26px;
+line-height: 100%;margin-top: 40px;
+
+        }
+
+        p{
+font-weight: 400px;
+font-size: 16px;
+line-height: 100%;
+margin-top: 55px;
+
+        }
+         
+    }
+    
+    .no{
+        display: flex;
+        gap: 70px;
+        
+
+        .gg{
+            background: #FFFFFF;
+            margin-top: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+
+        }
+        .ff{
+            background: #FFFFFF;
+              margin-top: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+
+        }
+
+    }
+} 
+.der {
+    display: flex;
+    flex-direction: column;
+   
+    gap: 0px;
+    .koko{
+        display: flex;
+        gap: 60px;
+    }
+    .gbgb{
+        color: #EDF7FA;
+        background: #142850;
+        border: none;
+        border-radius: 10px;
+    }
+    .as{
+         justify-content: right;
+         gap: px;
+    }
+} 
+
+.footer {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    justify-content: center;
+}
